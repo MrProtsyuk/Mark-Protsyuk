@@ -1,0 +1,45 @@
+:root {
+    --primary-color: ;
+    --secondary-color: ;
+    --tertiary-color: ;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styles applied to header, footer, and elements within those */
+header {
+
+}
+
+header nav {
+
+}
+
+header nav ul {
+
+}
+
+header nav ul li a {
+
+}
+
+header nav ul li a:hover {
+
+}
+
+footer {
+
+}
+
+footer h2 {
+    
+}
+
+/* Section style */
+section {
+    padding: 60px;
+}
